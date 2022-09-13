@@ -1,0 +1,15 @@
+{
+    "short_name": "WeCare",
+    "name": "WeCare",
+    "start_url": "index.html",
+    "icons":[
+        {
+            "src": "assets/images/logo.png",
+            "type": "image/png",
+            "sizes": "215x215"
+        }
+    ],
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "gcm_sender_id": "103953800507"
+  }
